@@ -10,16 +10,19 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 Laravel is accessible, yet powerful, providing powerful tools needed for large, robust applications. A superb inversion of control container, expressive migration system, and tightly integrated unit testing support give you the tools you need to build any application with which you are tasked.
 
-## Road Map
-
 
 ## TODO
 * Database setup
+* Elixir Setup
 * Unify integration
 * Email setup
 * Deploy the app
 
 
+## Completed
+* Database setup - Done
+* Elixir Setup - Done need some fixing
+* Unify integration - Done need some fixing
 
 ### License
 

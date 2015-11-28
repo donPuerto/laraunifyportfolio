@@ -1,0 +1,1 @@
+{"version":3,"sources":["default.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA","file":"css-theme-color.css","sourcesContent":["/*\r\n* Default Color \t  : #72c02c;\r\n* Default Hover Color : #5fb611;\r\n*/\r\n\r\n/*If you are using default Unify color (green - #72c02c), you do not need to link (use) default.css*/"],"sourceRoot":"/source/"}
